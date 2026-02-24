@@ -21,8 +21,8 @@
 | [第 1 章：欧氏几何](ch01-euclidean/README.md) | 欧氏几何（Euclidean geometry） | 公理化方法、三角形（全等、相似、五心）、圆（圆周角、切线、幂）、面积与体积 |
 | [第 2 章：解析几何](ch02-analytic/README.md) | 解析几何（analytic geometry） | 坐标系与直线、圆的方程 |
 | [第 3 章：圆锥曲线](ch03-conics/README.md) | 圆锥曲线（conic sections） | 椭圆、双曲线、抛物线、统一定义与分类 |
-| 第 4 章：几何变换 | 几何变换（geometric transformations） | 平移、旋转、反射、缩放、等距变换与相似变换 |
-| 第 5 章：向量几何 | 向量几何（vector geometry） | 向量运算、点积、叉积、向量在几何中的应用 |
+| [第 4 章：几何变换](ch04-transformations/README.md) | 几何变换（geometric transformations） | 平移、旋转、反射、缩放、等距变换与相似变换 |
+| [第 5 章：向量几何](ch05-vectors/README.md) | 向量几何（vector geometry） | 向量运算、点积、叉积、向量在几何中的应用 |
 
 这五章的关系：第一章用综合方法（synthetic approach）建立几何的基本定理，不依赖坐标。第二章引入坐标系，将几何问题代数化——这是笛卡尔的伟大革命。第三章深入研究二次曲线（圆锥曲线），是解析几何的核心应用。第四章从变换的角度重新审视几何——Felix Klein 的 Erlangen 纲领认为"几何就是研究在某一变换群下不变的性质"。第五章用向量语言统一前面的结果，为线性代数（Part 9）做准备。
 
