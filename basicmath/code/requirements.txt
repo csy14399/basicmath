@@ -1,0 +1,14 @@
+# BasicMath 教材 — Python 依赖清单
+# 安装方式：pip install -r requirements.txt
+
+# 数值计算
+numpy>=1.24.0
+
+# 绘图与可视化
+matplotlib>=3.7.0
+
+# 符号计算
+sympy>=1.12
+
+# 网络/图论可视化（Part 7 图论）
+networkx>=3.0
